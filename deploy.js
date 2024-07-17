@@ -3,7 +3,7 @@ const { Web3 } = require('web3');
 const { interface, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
-  'suit razor ski collect unique slender above banner grunt vehicle index print',
+  'your metamask seed phrase',
   // remember to change this to your own phrase!
   'https://sepolia.infura.io/v3/129a30e3408d4fee8473b2ee83975380'
   // remember to change this to your own endpoint!
